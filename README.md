@@ -4,8 +4,12 @@ In this project we will test the capabilities of Markdown and the integration be
 
 ## Table of Contents
 
-- Introduction
+- [Introduction](#introduction)
 - Features
 - Installation
 - Usage
 - License
+
+### Introduction
+
+If you want to start learning about the capabilities of Git, you can do so by clicking [here](https://git-scm.com/doc).
