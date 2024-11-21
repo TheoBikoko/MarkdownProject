@@ -12,6 +12,8 @@ In this project we will test the capabilities of Markdown and the integration be
 
 ### Introduction
 
+![Project Logo](images/logo.png)
+
 If you want to start learning about the capabilities of Git, you can do so by clicking [here](https://git-scm.com/doc).
 
 ### Features
