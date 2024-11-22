@@ -1,3 +1,30 @@
+commit bf7378bed3c2905745bfe79beee2c32dad6f2c04
+Merge: ffaa984 18ed7f8
+Author: TheoBikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 13:27:37 2024 +0100
+
+    Merge pull request #2 from TheoBikoko/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 18ed7f86cf2d780590e52d2272f2e6faf59128e7
+Author: Theo Kandi Bikoko Pineda <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 13:04:52 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit ffaa984a77f63f9944a205ddbb1f5190b7adbd51
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 02:07:11 2024 +0100
+
+    Validation 1 text document updated after completing task 12 from part 1
+
+ validation1.txt | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
 commit fc5287842e687166dee068d592c3941dd3ac4c8f
 Author: Theo Bikoko <25634122r@iespoblenou.org>
 Date:   Fri Nov 22 02:00:08 2024 +0100
