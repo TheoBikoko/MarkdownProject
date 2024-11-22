@@ -1,3 +1,21 @@
+commit fc5287842e687166dee068d592c3941dd3ac4c8f
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 02:00:08 2024 +0100
+
+    Update introduction to README.md
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 9bfdcb6400cd741f122270f27db8272061a9cc3f
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 01:51:46 2024 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 89 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 89 insertions(+)
+
 commit 761b390d16246611885847e439b22e1b706d6ce3
 Merge: b95f06f d764617
 Author: Theo Bikoko <25634122r@iespoblenou.org>
