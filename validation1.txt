@@ -1,0 +1,89 @@
+commit 761b390d16246611885847e439b22e1b706d6ce3
+Merge: b95f06f d764617
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 01:35:27 2024 +0100
+
+    Merge add-license branch into main
+
+commit d764617274a9afa46cde9abab1c83ef820c9e0bb
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 01:32:00 2024 +0100
+
+    Add MIT License
+
+ LICENSE.md |  7 +++++++
+ README.md  | 17 +++++++++++++++++
+ 2 files changed, 24 insertions(+)
+
+commit b95f06f9f45a383542526542b3901163c56e4760
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 01:05:22 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit 473c4d209c917130e7cb62ea7c61f5fb3087a746
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 00:44:55 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 476cfb7f12914fcee51aa5b9796df9d829a34862
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Fri Nov 22 00:39:54 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 4357 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 4a258a2218d0dcc1143f1379737236871a79e5e6
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Thu Nov 21 23:01:41 2024 +0100
+
+    Add sections to README
+
+ README.md | 16 ++++++++++++----
+ 1 file changed, 12 insertions(+), 4 deletions(-)
+
+commit 909969c1dd38ad55442ea1805a5642caa89f22c0
+Author: Theo Bikoko <25634122r@iespoblenou.org>
+Date:   Thu Nov 21 22:57:39 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit 8fd5141a8d920376c47a336b01ea5b1ff731ea1c
+Author: Theo Kandi Bikoko Pineda <25634122r@iespoblenou.org>
+Date:   Thu Nov 21 12:36:49 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit c2cdc5d8770f87fa59ed37f8c7344ba7f6884645
+Author: Theo Kandi Bikoko Pineda <25634122r@iespoblenou.org>
+Date:   Thu Nov 21 12:21:02 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 8f3d9d23d8e891871407dd5f3e8a7a374f9a3198
+Author: Theo Kandi Bikoko Pineda <25634122r@iespoblenou.org>
+Date:   Thu Nov 21 11:29:41 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
